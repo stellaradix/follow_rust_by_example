@@ -1,0 +1,10 @@
+# Custom Rust whitelist
+*
+!*/
+
+!.gitattributes
+!.gitignore
+!README.md
+
+!Cargo.toml
+!*.rs
